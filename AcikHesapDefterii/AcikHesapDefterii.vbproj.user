@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>ftp://sebastj0:Masa__2012%40webte.net/public_html/addon_roser137webte/yasamelektrik/|c:\clickonce\|ftp://webte.net/public_html/addon_roser137webte/yasamelektrik/|ftp://webte.net/public_html/addon_roser137webte/acikhesap-yasamelektrik/|ftp://sebastj0:Masa__2012%40webte.net/public_html/addon_roser137webte/</PublishUrlHistory>
+    <InstallUrlHistory>http://webte.net/yasamelektrik/|http://webte.net/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+    <ProjectView>ShowAllFiles</ProjectView>
+  </PropertyGroup>
+</Project>
