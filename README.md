@@ -12,7 +12,7 @@ Raporlama
 
 İndirmek için tıklayın: [Download](https://bitbucket.org/roser137/a-k-hesap-defteri/downloads/AcikHesapDefteriLogosuz.rar).
 
-Program açık kaynak olarak geliştirilmektedir. Repo üzerinden koda erişebilirsiniz. [buraya tıklayarak](https://bitbucket.org/roser137/a-k-hesap-defteri/src) repoya ulaşabilirsiniz. [tortoisehg](http://tortoisehg.bitbucket.org/) ile kaynak kodu indiribilirsiniz.
+Program açık kaynak olarak geliştirilmektedir. Repo üzerinden koda erişebilirsiniz.
 
 ## Altyapı
 Program usb belleklerde kullanımın da pratik olması için access veritabanı kullanmaktadır. C# ile geliştirilmiştir.
